@@ -1,4 +1,4 @@
-# Late time approaches to the Hubble tension deforming H(z) worsen the growth tension
+# Late time approaches to the Hubble tension deforming H(z), worsen the growth tension
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 
