@@ -13,7 +13,7 @@ Many late time approaches for the solution of the Hubble tension use a late time
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*Late time approaches to the Hubble tension deforming H(z) worsen the growth tension*
+<br>*Late time approaches to the Hubble tension deforming H(z), worsen the growth tension*
 <br>George Alestas and Leandros Perivolaropoulos, [arxiv:2012.13932](https://arxiv.org/abs/2012.13932)
 
 Any further questions/comments are welcome.
