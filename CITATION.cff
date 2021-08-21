@@ -8,23 +8,5 @@ authors:
   given-names: "Leandros"
   orcid: "https://orcid.org/0000-0001-9330-2371"
 title: "Growth-Hubbble_Tension"
-version: 2.0.4
-date-released: 2017-12-18
 url: "https://github.com/GeorgeAlestas/Growth-Hubble_Tension"
-preferred-citation:
-type: article
-authors:
-- family-names: "Alestas"
-  given-names: "George"
-  orcid: "https://orcid.org/0000-0003-1790-4914"
-- family-names: "Perivolaropoulos"
-  given-names: "Leandros"
-  orcid: "https://orcid.org/0000-0001-9330-2371"
- title = "Late-time approaches to the Hubble tension deforming H(z), worsen the growth tension",
- doi = "10.1093/mnras/stab1070",
- journal = "Mon. Not. Roy. Astron. Soc.",
- volume = 504,
- number = 3,
- pages = 3956,
- year = 2021
   
