@@ -8,7 +8,7 @@ authors:
   given-names: "Leandros"
   orcid: "https://orcid.org/0000-0001-9330-2371"
 title: "Growth-Hubbble_Tension"
-url: "https://github.com/GeorgeAlestas/Growth-Hubble_Tension"
+url: "https://doi.org/10.1093/mnras/stab1070"
 preferred-citation:
   type: article
   authors:
@@ -17,16 +17,13 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0003-1790-4914"
   - family-names: "Perivolaropoulos"
     given-names: "Leandros"
-    orcid: "https://orcid.org/0000-0001-9330-2371"
-  eprint = "2103.04045",
-  archivePrefix = "arXiv",
-  primaryClass = "astro-ph.CO",  
+    orcid: "https://orcid.org/0000-0001-9330-2371"  
   doi: "10.1093/mnras/stab1070"
   journal: "Mon. Not. Roy. Astron. Soc."
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "My awesome research software"
+  month: 04
+  start: 3956 # First page number
+  end: 3962 # Last page number
+  title: "Late-time approaches to the Hubble tension deforming H(z), worsen the growth tension"
   issue: 3
   volume: 504
   year: 2021  
