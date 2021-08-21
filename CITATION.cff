@@ -2,11 +2,11 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Alestas"
-    given-names: "George"
-    orcid: "https://orcid.org/0000-0003-1790-4914"
+  given-names: "George"
+  orcid: "https://orcid.org/0000-0003-1790-4914"
 - family-names: "Perivolaropoulos"
-    given-names: "Leandros"
-    orcid: "https://orcid.org/0000-0001-9330-2371"
+  given-names: "Leandros"
+  orcid: "https://orcid.org/0000-0001-9330-2371"
 title: "Growth-Hubbble_Tension"
 version: 2.0.4
 date-released: 2017-12-18
