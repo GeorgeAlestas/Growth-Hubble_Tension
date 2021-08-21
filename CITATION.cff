@@ -8,6 +8,9 @@ authors:
     given-names: "Leandros"
     orcid: "https://orcid.org/0000-0001-9330-2371"
 title: "Growth-Hubbble_Tension"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
 url: "https://github.com/GeorgeAlestas/Growth-Hubble_Tension"
 preferred-citation:
   type: article
